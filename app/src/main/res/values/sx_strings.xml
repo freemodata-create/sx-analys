@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sx_login_title">Masuk untuk mendengarkan musik tanpa iklan</string>
+    <string name="sx_login_subtitle">Pilih akun Google Anda, tanpa perlu mengetik email.</string>
+    <string name="sx_login_continue_google">Lanjutkan dengan Google</string>
+    <string name="sx_login_other_account">Masuk lewat halaman Google</string>
+    <string name="sx_login_confirm_title">Yakin untuk melanjutkan login?</string>
+    <string name="sx_login_confirm_message">Anda akan masuk dengan %1$s. SX ANLYS akan memakai akun ini untuk memutar musik dan menyimpan favorit.</string>
+    <string name="sx_login_confirm_agree">Setuju dan lanjutkan</string>
+    <string name="sx_login_confirm_cancel">Batal</string>
+</resources>
